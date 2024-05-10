@@ -1,0 +1,15 @@
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.AssemblyInfoInputs.cache
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.AssemblyInfo.cs
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.csproj.CoreCompileInputs.cache
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.sourcelink.json
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\bin\Debug\net8.0\Circle-oop-Lab.exe
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\bin\Debug\net8.0\Circle-oop-Lab.deps.json
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\bin\Debug\net8.0\Circle-oop-Lab.runtimeconfig.json
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\bin\Debug\net8.0\Circle-oop-Lab.dll
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\bin\Debug\net8.0\Circle-oop-Lab.pdb
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.dll
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\refint\Circle-oop-Lab.dll
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.pdb
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\Circle-oop-Lab.genruntimeconfig.cache
+C:\Users\cstock\source\repos\Circle-oop-Lab\Circle-oop-Lab\obj\Debug\net8.0\ref\Circle-oop-Lab.dll
